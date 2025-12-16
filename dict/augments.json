@@ -1,0 +1,369 @@
+{
+    "Dual Cleavers": [
+        "Justice Blades"
+    ],
+    "Prisma Dual Cleavers": [
+        "Justice Blades"
+    ],
+    "Sobek": [
+        "Shattering Justice",
+        "Acid Shells",
+        "Clip Delegation"
+    ],
+    "Hek": [
+        "Scattered Justice"
+    ],
+    "Miter": [
+        "Neutralizing Justice"
+    ],
+    "Jaw Sword": [
+        "Blade of Truth"
+    ],
+    "Burston Prime": [
+        "Gilded Truth"
+    ],
+    "Viper": [
+        "Stinging Truth",
+        "Skull Shots"
+    ],
+    "Viper Wraith": [
+        "Stinging Truth",
+        "Skull Shots"
+    ],
+    "Silva & Aegis": [
+        "Avenging Truth"
+    ],
+    "Silva & Aegis Prime": [
+        "Avenging Truth"
+    ],
+    "Supra": [
+        "Entropy Burst",
+        "Directed Convergence"
+    ],
+    "Supra Vandal": [
+        "Entropy Burst",
+        "Directed Convergence"
+    ],
+    "Kestrel": [
+        "Entropy Flight"
+    ],
+    "Bolto": [
+        "Entropy Spike"
+    ],
+    "Obex": [
+        "Entropy Detonation"
+    ],
+    "Prisma Obex": [
+        "Entropy Detonation"
+    ],
+    "Grinlok": [
+        "Deadly Sequence"
+    ],
+    "Prisma Grinlok": [
+        "Deadly Sequence"
+    ],
+    "Spectra": [
+        "Sequence Burn"
+    ],
+    "Spectra Vandal": [
+        "Sequence Burn"
+    ],
+    "Acrid": [
+        "Toxic Sequence"
+    ],
+    "Lanka": [
+        "Voltage Sequence"
+    ],
+    "Embolist": [
+        "Eroding Blight",
+        "Vile Discharge"
+    ],
+    "Dark Dagger": [
+        "Gleaming Blight"
+    ],
+    "Rakta Dark Dagger": [
+        "Gleaming Blight"
+    ],
+    "Mire": [
+        "Toxic Blight"
+    ],
+    "Kunai": [
+        "Stockpiled Blight"
+    ],
+    "MK1-Kunai": [
+        "Stockpiled Blight"
+    ],
+    "Skana": [
+        "Bright Purity"
+    ],
+    "Prisma Skana": [
+        "Bright Purity"
+    ],
+    "Skana Prime": [
+        "Bright Purity"
+    ],
+    "Vulkar": [
+        "Lasting Purity",
+        "Meticulous Aim"
+    ],
+    "Vulkar Wraith": [
+        "Lasting Purity",
+        "Meticulous Aim"
+    ],
+    "Furis": [
+        "Winds of Purity"
+    ],
+    "MK1-Furis": [
+        "Winds of Purity"
+    ],
+    "Panthera": [
+        "Disarming Purity"
+    ],
+    "Panthera Prime": [
+        "Disarming Purity"
+    ],
+    "Penta": [
+        "Tether Grenades",
+        "Napalm Grenades"
+    ],
+    "Secura Penta": [
+        "Tether Grenades",
+        "Napalm Grenades"
+    ],
+    "Flux Rifle": [
+        "Flux Overdrive"
+    ],
+    "Tenet Flux Rifle": [
+        "Flux Overdrive"
+    ],
+    "Detron": [
+        "Thermagnetic Shells"
+    ],
+    "Mara Detron": [
+        "Thermagnetic Shells"
+    ],
+    "Tenet Detron": [
+        "Thermagnetic Shells"
+    ],
+    "Prova": [
+        "Static Discharge"
+    ],
+    "Prova Vandal": [
+        "Static Discharge"
+    ],
+    "Tetra": [
+        "Kinetic Ricochet",
+        "Focused Acceleration"
+    ],
+    "Prisma Tetra": [
+        "Kinetic Ricochet",
+        "Focused Acceleration"
+    ],
+    "Tenet Tetra": [
+        "Kinetic Ricochet",
+        "Focused Acceleration"
+    ],
+    "Ack & Brunt": [
+        "Electromagnetic Shielding"
+    ],
+    "Jat Kittag": [
+        "Vulcan Blitz"
+    ],
+    "Kuva Sobek": [
+        "Acid Shells",
+        "Clip Delegation"
+    ],
+    "Twin Basolk": [
+        "Rift Strike"
+    ],
+    "Ogris": [
+        "Nightwatch Napalm"
+    ],
+    "Kuva Ogris": [
+        "Nightwatch Napalm"
+    ],
+    "Drakgoon": [
+        "Fomorian Accelerant"
+    ],
+    "Kuva Drakgoon": [
+        "Fomorian Accelerant"
+    ],
+    "Ripkas": [
+        "Hunter's Bonesaw",
+        "Amalgam Ripkas True Steel"
+    ],
+    "Grakata": [
+        "Wild Frenzy",
+        "Brain Storm"
+    ],
+    "Prisma Grakata": [
+        "Wild Frenzy",
+        "Brain Storm"
+    ],
+    "Mutalist Quanta": [
+        "Bursting Mass"
+    ],
+    "Convectrix": [
+        "Efficient Beams"
+    ],
+    "Harpak": [
+        "Exposing Harpoon"
+    ],
+    "Magnus": [
+        "Deadly Maneuvers"
+    ],
+    "Bronco": [
+        "Dizzying Rounds"
+    ],
+    "Bronco Prime": [
+        "Dizzying Rounds"
+    ],
+    "Tonkor": [
+        "Precision Strike"
+    ],
+    "Kuva Tonkor": [
+        "Precision Strike"
+    ],
+    "Akjagara": [
+        "Range Advantage"
+    ],
+    "Akjagara Prime": [
+        "Range Advantage"
+    ],
+    "Tigris": [
+        "Combat Reload"
+    ],
+    "Tigris Prime": [
+        "Combat Reload"
+    ],
+    "Sancti Tigris": [
+        "Combat Reload"
+    ],
+    "Tiberon": [
+        "Critical Precision"
+    ],
+    "Tiberon Prime": [
+        "Critical Precision"
+    ],
+    "Zylok": [
+        "Eximus Advantage"
+    ],
+    "Gorgon": [
+        "Metamorphic Magazine"
+    ],
+    "Gorgon Wraith": [
+        "Metamorphic Magazine"
+    ],
+    "Prisma Gorgon": [
+        "Metamorphic Magazine"
+    ],
+    "Ocucor": [
+        "Sentient Surge"
+    ],
+    "Battacor": [
+        "Sentient Barrage"
+    ],
+    "Catabolyst": [
+        "Critical Mutation"
+    ],
+    "Coda Catabolyst": [
+        "Critical Mutation"
+    ],
+    "Sporothrix": [
+        "Volatile Variant"
+    ],
+    "Coda Sporothrix": [
+        "Volatile Variant"
+    ],
+    "Glaxion": [
+        "Photon Overcharge"
+    ],
+    "Glaxion Vandal": [
+        "Photon Overcharge"
+    ],
+    "Tenet Glaxion": [
+        "Photon Overcharge"
+    ],
+    "Hate": [
+        "Burning Hate"
+    ],
+    "Dread": [
+        "Unseen Dread"
+    ],
+    "Vesper 77": [
+        "Leaded Gas"
+    ],
+    "AX-52": [
+        "Biotic Rounds"
+    ],
+    "Synoid Simulor": [
+        "Spontaneous Singularity"
+    ],
+    "Simulor": [
+        "Spontaneous Singularity"
+    ],
+    "Athodai": [
+        "Pain Points"
+    ],
+    "Hema": [
+        "Necrophagic Vigor"
+    ],
+    "Coda Hema": [
+        "Necrophagic Vigor"
+    ],
+    "Basmu": [
+        "Dreadful Killshot"
+    ],
+    "Argonak": [
+        "Amalgam Argonak Metal Auger"
+    ],
+    "Daikyu": [
+        "Amalgam Daikyu Target Acquired",
+        "Spring-Loaded Broadhead"
+    ],
+    "Furax": [
+        "Amalgam Furax Body Count"
+    ],
+    "Furax Wraith": [
+        "Amalgam Furax Body Count"
+    ],
+    "MK1-Furax": [
+        "Amalgam Furax Body Count"
+    ],
+    "Javlok": [
+        "Amalgam Javlok Magazine Warp"
+    ],
+    "Rubico": [
+        "Ambush Optics"
+    ],
+    "Rubico Prime": [
+        "Ambush Optics"
+    ],
+    "Latron": [
+        "Double Tap"
+    ],
+    "Latron Prime": [
+        "Double Tap"
+    ],
+    "Latron Wraith": [
+        "Double Tap"
+    ],
+    "Marelok": [
+        "Shrapnel Rounds"
+    ],
+    "Vaykor Marelok": [
+        "Shrapnel Rounds"
+    ],
+    "Paris Prime": [
+        "Bhisaj-Bal"
+    ],
+    "Akbronco Prime": [
+        "Damzav-Vati"
+    ],
+    "Soma Prime": [
+        "Hata-Satya"
+    ],
+    "Akstiletto Prime": [
+        "Zazvat-Kar"
+    ]
+}

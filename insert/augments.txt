@@ -1,0 +1,105 @@
+{
+["Augments"] = {
+	{Name = "Justice Blades", Category = "Syndicate", Source = "Steel Meridian", Weapons = {"Dual Cleavers", "Prisma Dual Cleavers"}},
+	{Name = "Shattering Justice", Category = "Syndicate", Source = "Steel Meridian", Weapons = {"Sobek"}},
+	{Name = "Scattered Justice", Category = "Syndicate", Source = "Steel Meridian", Weapons = {"Hek"}},
+	{Name = "Neutralizing Justice", Category = "Syndicate", Source = "Steel Meridian", Weapons = {"Miter"}},
+ 
+	{Name = "Blade of Truth", Category = "Syndicate", Source = "Arbiters of Hexis", Weapons = {"Jaw Sword"}},
+	{Name = "Gilded Truth", Category = "Syndicate", Source = "Arbiters of Hexis", Weapons = {"Burston Prime"}},
+	{Name = "Stinging Truth", Category = "Syndicate", Source = "Arbiters of Hexis", Weapons = {"Viper", "Viper Wraith"}},
+	{Name = "Avenging Truth", Category = "Syndicate", Source = "Arbiters of Hexis", Weapons = {"Silva & Aegis", "Silva & Aegis Prime"}},
+	{Name = "Entropy Burst", Category = "Syndicate", Source = "Cephalon Suda", Weapons = {"Supra", "Supra Vandal"}},
+	{Name = "Entropy Flight", Category = "Syndicate", Source = "Cephalon Suda", Weapons = {"Kestrel"}},
+	{Name = "Entropy Spike", Category = "Syndicate", Source = "Cephalon Suda", Weapons = {"Bolto"}},
+	{Name = "Entropy Detonation", Category = "Syndicate", Source = "Cephalon Suda", Weapons = {"Obex", "Prisma Obex"}},
+ 
+	{Name = "Deadly Sequence", Category = "Syndicate", Source = "The Perrin Sequence", Weapons = {"Grinlok", "Prisma Grinlok"}},
+	{Name = "Sequence Burn", Category = "Syndicate", Source = "The Perrin Sequence", Weapons = {"Spectra", "Spectra Vandal"}},
+	{Name = "Toxic Sequence", Category = "Syndicate", Source = "The Perrin Sequence", Weapons = {"Acrid"}},
+	{Name = "Voltage Sequence", Category = "Syndicate", Source = "The Perrin Sequence", Weapons = {"Lanka"}},
+ 
+	{Name = "Eroding Blight", Category = "Syndicate", Source = "Red Veil", Weapons = {"Embolist"}},
+	{Name = "Gleaming Blight", Category = "Syndicate", Source = "Red Veil", Weapons = {"Dark Dagger", "Rakta Dark Dagger"}},
+	{Name = "Toxic Blight", Category = "Syndicate", Source = "Red Veil", Weapons = {"Mire"}},
+	{Name = "Stockpiled Blight", Category = "Syndicate", Source = "Red Veil", Weapons = {"Kunai", "MK1-Kunai"}},
+ 
+	{Name = "Bright Purity", Category = "Syndicate", Source = "New Loka", Weapons = {"Skana", "Prisma Skana", "Skana Prime"}},
+	{Name = "Lasting Purity", Category = "Syndicate", Source = "New Loka", Weapons = {"Vulkar", "Vulkar Wraith"}},
+	{Name = "Winds of Purity", Category = "Syndicate", Source = "New Loka", Weapons = {"Furis", "MK1-Furis"}},
+	{Name = "Disarming Purity", Category = "Syndicate", Source = "New Loka", Weapons = {"Panthera", "Panthera Prime"}},
+ 
+	{Name = "Tether Grenades", Category = "Arena", Source = "The Index", Weapons = {"Penta", "Secura Penta"}},
+	{Name = "Flux Overdrive", Category = "Arena", Source = "The Index", Weapons = {"Flux Rifle", "Tenet Flux Rifle"}},
+	{Name = "Thermagnetic Shells", Category = "Arena", Source = "The Index", Weapons = {"Detron", "Mara Detron", "Tenet Detron"}},
+	{Name = "Static Discharge", Category = "Arena", Source = "The Index", Weapons = {"Prova", "Prova Vandal"}},
+	{Name = "Kinetic Ricochet", Category = "Arena", Source = "The Index", Weapons = {"Tetra", "Prisma Tetra", "Tenet Tetra"}},
+ 
+	{Name = "Electromagnetic Shielding", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Ack & Brunt"}},
+	{Name = "Vulcan Blitz", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Jat Kittag"}},
+	{Name = "Acid Shells", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Sobek", "Kuva Sobek"}},
+	{Name = "Rift Strike", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Twin Basolk"}},
+	{Name = "Nightwatch Napalm", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Ogris", "Kuva Ogris"}},
+	{Name = "Fomorian Accelerant", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Drakgoon", "Kuva Drakgoon"}},
+	{Name = "Hunter's Bonesaw", Category = "Arena", Source = "Kela De Thaym", Weapons = {"Ripkas"}},
+ 
+	{Name = "Wild Frenzy", Category = "Syndicate", Source = "Nightwave", Weapons = {"Grakata", "Prisma Grakata"}},
+	{Name = "Bursting Mass", Category = "Syndicate", Source = "Nightwave", Weapons = {"Mutalist Quanta"}},
+	{Name = "Napalm Grenades", Category = "Syndicate", Source = "Nightwave", Weapons = {"Penta", "Secura Penta"}},
+	{Name = "Efficient Beams", Category = "Syndicate", Source = "Nightwave", Weapons = {"Convectrix"}},
+	{Name = "Exposing Harpoon", Category = "Syndicate", Source = "Nightwave", Weapons = {"Harpak"}},
+	{Name = "Meticulous Aim", Category = "Syndicate", Source = "Nightwave", Weapons = {"Vulkar", "Vulkar Wraith"}},
+	{Name = "Deadly Maneuvers", Category = "Syndicate", Source = "Nightwave", Weapons = {"Magnus"}},
+	{Name = "Dizzying Rounds", Category = "Syndicate", Source = "Nightwave", Weapons = {"Bronco", "Bronco Prime"}},
+	{Name = "Precision Strike", Category = "Syndicate", Source = "Nightwave", Weapons = {"Tonkor", "Kuva Tonkor"}},
+	
+	{Name = "Range Advantage", Category = "Syndicate", Source = "Nightwave", Weapons = {"Akjagara", "Akjagara Prime"}},
+	{Name = "Combat Reload", Category = "Syndicate", Source = "Nightwave", Weapons = {"Tigris", "Tigris Prime", "Sancti Tigris"}},
+	{Name = "Critical Precision", Category = "Syndicate", Source = "Nightwave", Weapons = {"Tiberon", "Tiberon Prime"}},
+	{Name = "Vile Discharge", Category = "Syndicate", Source = "Nightwave", Weapons = {"Embolist"}},
+--电波202212.1
+	{Name = "Eximus Advantage", Category = "Syndicate", Source = "Nightwave", Weapons = {"Zylok"}},
+	{Name = "Metamorphic Magazine", Category = "Syndicate", Source = "Nightwave", Weapons = {"Gorgon", "Gorgon Wraith", "Prisma Gorgon"}},
+--电波vol.2
+	{Name = "Sentient Surge", Category = "Syndicate", Source = "Nightwave", Weapons = {"Ocucor"}},
+	{Name = "Sentient Barrage", Category = "Syndicate", Source = "Nightwave", Weapons = {"Battacor"}},
+	{Name = "Critical Mutation", Category = "Syndicate", Source = "Nightwave", Weapons = {"Catabolyst", "Coda Catabolyst"}},
+	{Name = "Volatile Variant", Category = "Syndicate", Source = "Nightwave", Weapons = {"Sporothrix", "Coda Sporothrix"}},
+	{Name = "Clip Delegation", Category = "Syndicate", Source = "Nightwave", Weapons = {"Sobek", "Kuva Sobek"}},
+	{Name = "Photon Overcharge", Category = "Syndicate", Source = "Nightwave", Weapons = {"Glaxion", "Glaxion Vandal", "Tenet Glaxion"}},
+--电波vol.7
+	{Name = "Burning Hate", Category = "Syndicate", Source = "Nightwave", Weapons = {"Hate"}},
+	{Name = "Unseen Dread", Category = "Syndicate", Source = "Nightwave", Weapons = {"Dread"}},
+--电波vol.8
+	{Name = "Leaded Gas", Category = "Syndicate", Source = "Nightwave", Weapons = {"Vesper 77"}},
+	{Name = "Biotic Rounds", Category = "Syndicate", Source = "Nightwave", Weapons = {"AX-52"}},
+--电波vol.9
+	{Name = "Spontaneous Singularity", Category = "Syndicate", Source = "Nightwave", Weapons = {"Synoid Simulor", "Simulor"}},
+	{Name = "Pain Points", Category = "Syndicate", Source = "Nightwave", Weapons = {"Athodai"}},
+--电波vol.10
+	{Name = "Necrophagic Vigor", Category = "Syndicate", Source = "Nightwave", Weapons = {"Hema", "Coda Hema"}},
+	{Name = "Dreadful Killshot", Category = "Syndicate", Source = "Nightwave", Weapons = {"Basmu"}},
+--蝠力使
+	{Name = "Amalgam Argonak Metal Auger", Category = "Amalgam", Source = "Ropalolyst", Weapons = {"Argonak"}},
+	{Name = "Amalgam Daikyu Target Acquired", Category = "Amalgam", Source = "Ropalolyst", Weapons = {"Daikyu"}},
+	{Name = "Amalgam Furax Body Count", Category = "Amalgam", Source = "Ropalolyst", Weapons = {"Furax","Furax Wraith","MK1-Furax"}},
+	{Name = "Amalgam Javlok Magazine Warp", Category = "Amalgam", Source = "Ropalolyst", Weapons = {"Javlok"}},
+	{Name = "Amalgam Ripkas True Steel", Category = "Amalgam", Source = "Ropalolyst", Weapons = {"Ripkas"}},
+
+
+	-- hacky way of displaying links to both Nightwave and Conclave pages
+	{Name = "Ambush Optics", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Rubico", "Rubico Prime"}},
+	{Name = "Brain Storm", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Grakata", "Prisma Grakata"}},
+	{Name = "Directed Convergence", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Supra", "Supra Vandal"}},
+	{Name = "Double Tap", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Latron", "Latron Prime", "Latron Wraith"}},
+	{Name = "Focused Acceleration", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Tetra", "Prisma Tetra", "Tenet Tetra"}},
+	{Name = "Shrapnel Rounds", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Marelok", "Vaykor Marelok"}},
+	{Name = "Skull Shots", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Viper", "Viper Wraith"}},
+	{Name = "Spring-Loaded Broadhead", Category = "Syndicate", Source = "Nightwave]]/[[Conclave", Weapons = {"Daikyu"}},
+ 
+	{Name = "Bhisaj-Bal", Category = "Syndicate", Source = "Entrati", Weapons = {"Paris Prime"}},
+	{Name = "Damzav-Vati", Category = "Syndicate", Source = "Entrati", Weapons = {"Akbronco Prime"}},
+	{Name = "Hata-Satya", Category = "Syndicate", Source = "Entrati", Weapons = {"Soma Prime"}},
+	{Name = "Zazvat-Kar", Category = "Syndicate", Source = "Entrati", Weapons = {"Akstiletto Prime"}},
+	}
+}

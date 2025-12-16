@@ -1,0 +1,371 @@
+{
+    "Dual Daggers": {
+        "Spinning Needle": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Sinking Talon": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Gnashing Payara": {
+            "Polarity": "R",
+            "PvP": false
+        },
+        "Biting Piranha": {
+            "Polarity": "R",
+            "PvP": true
+        }
+    },
+    "Hammer": {
+        "Shattering Storm": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Crushing Ruin": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Crashing Havoc": {
+            "Polarity": "D",
+            "PvP": true
+        }
+    },
+    "Machete": {
+        "Sundering Weave": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Cyclone Kraken": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Rending Wind": {
+            "Polarity": "Zenurik",
+            "PvP": true
+        }
+    },
+    "Nikana": {
+        "Tranquil Cleave": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Decisive Judgement": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Blind Justice": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Fateful Truth": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Heavy Scythe": {
+        "Galeforce Dawn": {
+            "Polarity": "V",
+            "PvP": false
+        }
+    },
+    "Staff": {
+        "Clashing Forest": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Flailing Branch": {
+            "Polarity": "R",
+            "PvP": false
+        },
+        "Crashing Timber": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Glaive": {
+        "Gleaming Talon": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Astral Twilight": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Celestial Nightfall": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Whip": {
+        "Burning Wasp": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Coiling Viper": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Lashing Coil": {
+            "Polarity": "Zenurik",
+            "PvP": true
+        }
+    },
+    "Nunchaku": {
+        "Atlantis Vulcan": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Mafic Rain": {
+            "Polarity": "D",
+            "PvP": true
+        }
+    },
+    "Scythe": {
+        "Reaping Spiral": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Stalking Fan": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Shadow Harvest": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Dagger": {
+        "Pointed Wind": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Stinging Thorn": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Homing Fang": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Piercing Fury": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Heavy Blade": {
+        "Cleaving Whirlwind": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Tempo Royale": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Rending Crane": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Noble Cadence": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Claws": {
+        "Four Riders": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Malicious Raptor": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Vermillion Storm": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Scarlet Hurricane": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Two-Handed Nikana": {
+        "Wise Razor": {
+            "Polarity": "V",
+            "PvP": false
+        }
+    },
+    "Warfan": {
+        "Slicing Feathers": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Votive Onslaught": {
+            "Polarity": "Bar",
+            "PvP": false
+        }
+    },
+    "Fist": {
+        "Seismic Palm": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Gaia's Tragedy": {
+            "Polarity": "D",
+            "PvP": false
+        },
+        "Fracturing Wind": {
+            "Polarity": "R",
+            "PvP": false
+        },
+        "Quaking Hand": {
+            "Polarity": "R",
+            "PvP": true
+        }
+    },
+    "Blade and Whip": {
+        "Defiled Snapdragon": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Tainted Hydra": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Rapier": {
+        "Vulpine Mask": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Cunning Aspect": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Polearm": {
+        "Bleeding Willow": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Twirling Spire": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Shimmering Blight": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Argent Scourge": {
+            "Polarity": "Zenurik",
+            "PvP": true
+        }
+    },
+    "Sword": {
+        "Crimson Dervish": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Vengeful Revenant": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Swooping Falcon": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Iron Phoenix": {
+            "Polarity": "R",
+            "PvP": false
+        },
+        "Rising Steel": {
+            "Polarity": "R",
+            "PvP": true
+        }
+    },
+    "Sparring": {
+        "Brutal Tide": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Grim Fury": {
+            "Polarity": "R",
+            "PvP": false
+        },
+        "Vicious Approach": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Dual Swords": {
+        "Crossing Snakes": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Carving Mantis": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Swirling Tiger": {
+            "Polarity": "Zenurik",
+            "PvP": false
+        },
+        "Dividing Blades": {
+            "Polarity": "Bar",
+            "PvP": true
+        }
+    },
+    "Tonfa": {
+        "Gemini Cross": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Sovereign Outcast": {
+            "Polarity": "Bar",
+            "PvP": false
+        },
+        "Star Divide": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Gunblade": {
+        "High Noon": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Bullet Dance": {
+            "Polarity": "V",
+            "PvP": false
+        }
+    },
+    "Assault Saw": {
+        "Butcher's Revelry": {
+            "Polarity": "Bar",
+            "PvP": false
+        }
+    },
+    "Sword and Shield": {
+        "Eleventh Storm": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Final Harbinger": {
+            "Polarity": "V",
+            "PvP": false
+        },
+        "Last Herald": {
+            "Polarity": "V",
+            "PvP": true
+        }
+    },
+    "Dual Nikanas": {
+        "Mountain's Edge": {
+            "Polarity": "Bar",
+            "PvP": false
+        }
+    },
+    "Exalted Blade": "Exalted Blade",
+    "Valkyr Talons": "Hysteria",
+    "Iron Staff": "Primal Fury"
+}
